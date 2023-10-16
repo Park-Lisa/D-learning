@@ -5,9 +5,11 @@ Variable Selection in D-learning for ITR
 
 기존의 방법론에 Convex penalty(Elastin net) 과 Nonconvex penalty(SCAD, MCP) 기법을 접목하여 차별화하였습니다.
 
-Comuputing Algorithm 식은 다음과 같습니다.
+핵심 컴퓨팅 식은 다음과 같습니다.
 
 <img width="437" alt="Untitled (1)" src="https://github.com/Park-Lisa/My-research/assets/138421973/c02e5463-035c-469c-9c52-1ced354053e1">
+
+
 
 
 
