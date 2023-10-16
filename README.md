@@ -7,6 +7,8 @@ Variable Selection in D-learning for ITR
 
 Comuputing Algorithm 식은 다음과 같습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2af8d179-6b8a-4a0c-8df4-96f65be82ed7/1cccbec4-70a6-4398-ae6b-bea316876eca/Untitled.png)
+<img width="437" alt="Untitled (1)" src="https://github.com/Park-Lisa/My-research/assets/138421973/c02e5463-035c-469c-9c52-1ced354053e1">
+
+
 
 
