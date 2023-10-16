@@ -12,3 +12,4 @@ Comuputing Algorithm 식은 다음과 같습니다.
 
 
 
+
